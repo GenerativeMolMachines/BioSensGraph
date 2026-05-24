@@ -1,4 +1,4 @@
-# BioSensGraph: Predicting Biopolymer Interactions via Knowledge Graph Embedding on a Property Graph of Molecular Entities
+# BioSensGraph: heterogeneous knowledge graph of biomolecular interactions for biosensor research
 
 ## Overview
 BioSensGraph is a research and engineering repository for molecular interaction modeling with knowledge graphs.
